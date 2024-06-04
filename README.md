@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @mohsenD98
-- 👀 I’m interested in pytorch and deep learning
-- 🌱 I’m currently learning and wrking C++ Qml Python Android-Native
-- 💞️ I’m looking to collaborate on qml project's (part time)
+- 👋 Hi, I’m Mohsen
+- 👀 I’m interested in C++, Qt Quick
+- 🌱 I’m currently working C++ QML Python 
 - 📫 How to reach me :
-  - Email : mohsen_d98@yahoo.com
-  - Telegram : @thisIsMoh3en
+  - Email : mohsen.d7698@gmail.com
 
 <!---
 mohsenD98/mohsenD98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
