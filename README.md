@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohsen
-- 👀 I’m interested in C++, Qt Quick
+- 👀 I’m interested in GIS, Trajectories
 - 🌱 I’m currently working C++ QML Python 
 - 📫 How to reach me :
   - Email : mohsen.d7698@gmail.com
